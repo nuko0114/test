@@ -3,7 +3,7 @@ mainの最新
 github　ターミナルコード
   
 <基礎>  
-cd　　　　　　　#移動  
+cd　　　　　#移動  
 git status　　#今の状況を確認する  
   
 赤文字はadd前、緑でadd済み  
