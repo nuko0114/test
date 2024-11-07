@@ -10,6 +10,7 @@ public class TestScript : MonoBehaviour
     void Start()
     {
         Debug.Log(name);
+        Debug.Log("ba-ka");
     }
 
     // Update is called once per frame
