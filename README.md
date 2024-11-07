@@ -2,7 +2,7 @@ mainの最新
 
 github　ターミナルコード
   
-<基礎>
+<基礎>  
 cd    #移動  
 git status　　#今の状況を確認する  
   
